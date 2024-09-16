@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    }
+    /* body */
+    body{
+        background-color: rgb(76, 81, 97);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    /* div content */
+    .content{
+        margin-top: 100px;
+    }
+    /* p */
+    p{
+        margin: 50px;
+        color: whitesmoke;
+    }
+    /* buton */
+    button{
+        color: whitesmoke;
+        padding: 15px;
+        background-color: rgba(8, 66, 88, 0.507);
+        cursor: pointer;
+        font-size: 20px;
+        border: 1px solid black;
+        margin-left: 50px;
+        margin-top: 40px;
+        border-radius: 50px;
+    }
+    /* div */
+    .mydiv{
+        width: 200px;
+        height: 200px;
+        border: 1px solid black;
+        margin: 30px;
+        border-radius: 30px;
+        background-color: rgba(8, 66, 88, 0.507) ;
+    }
